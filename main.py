@@ -1,8 +1,9 @@
 import os
 import asyncio
+from datetime import datetime
 from pathlib import Path
 import discord
-from discord.ext import commands
+from discord.ext import commands, tasks
 from dotenv import load_dotenv
 from source import utils
 
@@ -14,11 +15,18 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
+@tasks.loop(minutes=5)
+async def heartbeat():
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[하트비트 {now}] 정상 작동 중 (서버 {len(bot.guilds)}개 접속)")
+
 @bot.event
 async def on_ready():
     await bot.tree.sync()
     print(f"{bot.user} 로그인됨")
     asyncio.create_task(asyncio.to_thread(utils.warm_icon_cache))
+    if not heartbeat.is_running():
+        heartbeat.start()
 
 async def load_cogs():
     cogs_dir = BASE_DIR / "cogs"
