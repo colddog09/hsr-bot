@@ -1,0 +1,17 @@
+[Unit]
+Description=HSR Discord Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/hsr-bot
+ExecStart=/home/ubuntu/hsr-bot/venv/bin/python3 /home/ubuntu/hsr-bot/bot.py
+Restart=always
+RestartSec=5
+StandardOutput=append:/home/ubuntu/hsr-bot/bot.log
+StandardError=append:/home/ubuntu/hsr-bot/bot.log
+
+[Install]
+WantedBy=multi-user.target
