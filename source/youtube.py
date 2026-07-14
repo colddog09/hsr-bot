@@ -19,12 +19,33 @@ HEADERS = {
 
 
 def _initial_data(html: str) -> dict:
-    match = re.search(r"var ytInitialData = ({.*?});</script>", html)
-    if not match:
-        match = re.search(r"ytInitialData\s*=\s*({.*?});</script>", html)
+    match = re.search(r'(?:var\s+ytInitialData|window\["ytInitialData"\]|ytInitialData)\s*=\s*({)', html)
     if not match:
         raise ValueError("YouTube ytInitialData를 찾을 수 없습니다")
-    return json.loads(match.group(1))
+
+    start = match.start(1)
+    depth = 0
+    in_string = False
+    escape = False
+    for i, ch in enumerate(html[start:], start=start):
+        if in_string:
+            if escape:
+                escape = False
+            elif ch == "\\":
+                escape = True
+            elif ch == '"':
+                in_string = False
+            continue
+        if ch == '"':
+            in_string = True
+        elif ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return json.loads(html[start:i + 1])
+
+    raise ValueError("YouTube ytInitialData JSON 파싱 실패 (괄호 불일치)")
 
 
 def _walk(value: Any):
