@@ -304,6 +304,20 @@ def _resolve_slug(char_name: str) -> Optional[str]:
     name_to_slug = {v: k for k, v in slug_map.items()}
     return name_to_slug.get(char_name)
 
+@ttl_cache(CACHE_TTL)
+def is_character_unreleased(char_name: str) -> bool:
+    """prydwen.gg에 아직 출시 전 캐릭터로 표시되어 있는지 확인
+    ('~ aren't available yet. They will be added when the character is released.' 문구 존재 여부)"""
+    tag = _resolve_slug(char_name)
+    if not tag:
+        return False
+    try:
+        html = _fetch_character_html(tag)
+        return "will be added when the character is released" in html
+    except Exception as e:
+        print(f"prydwen 미출시 여부 확인 실패 ({char_name}): {e}")
+        return False
+
 PATH_KR = {
     "Destruction": "파멸", "Hunt": "수렵", "Erudition": "지식", "Harmony": "화합",
     "Nihility": "허무", "Preservation": "보존", "Abundance": "풍요", "Remembrance": "기억",
@@ -613,14 +627,16 @@ def get_character_intro(char_name: str) -> Optional[str]:
         html = _fetch_character_html(tag)
         soup = BeautifulSoup(html, "html.parser")
 
-        container = (
-            soup.find("div", class_="char-intro")
-            or soup.find("div", class_="character-intro")
-        )
-        if container is None:
-            return None
-        text = container.get_text(" ", strip=True)
-        return text or None
+        for container in (
+            soup.find("div", class_="char-intro"),
+            soup.find("div", class_="character-intro"),
+        ):
+            if container is None:
+                continue
+            text = container.get_text(" ", strip=True)
+            if text:
+                return text
+        return None
     except Exception as e:
         print(f"prydwen 캐릭터 소개 스크래핑 실패 ({char_name}): {e}")
         return None

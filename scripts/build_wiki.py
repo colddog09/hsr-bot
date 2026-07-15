@@ -127,7 +127,7 @@ def _portrait_for(name):
 
 
 def gather_character(name, slug_to_kr_name):
-    data = {"name": name}
+    data = {"name": name, "unreleased": prydwen.is_character_unreleased(name)}
 
     profile = prydwen.get_character_profile(name) or {}
     data["path"] = profile.get("path") or ""

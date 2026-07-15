@@ -73,6 +73,13 @@ async def _build_detail_embeds(char_name: str, d: dict, item_type: str, selectio
     )
     file = None
 
+    if d.get("unreleased"):
+        embed.description = "🚧 미출시 캐릭터입니다. 정식 출시 후 정보가 제공됩니다."
+        if d.get("portrait"):
+            embed.set_thumbnail(url=d["portrait"])
+        embed.set_footer(text="데이터 출처: prydwen.gg")
+        return [embed], file
+
     if item_type == "all":
         embed.description = _summary(d)
         if d.get("description"):
@@ -155,7 +162,7 @@ async def _build_detail_embeds(char_name: str, d: dict, item_type: str, selectio
                 if member.get("portrait")
             ]
             if icon_pairs:
-                buf = await asyncio.to_thread(utils.build_icon_strip_image, icon_pairs, show_labels=True)
+                buf = await asyncio.to_thread(utils.build_icon_strip_image, icon_pairs, show_labels=False)
                 file = discord.File(buf, filename="party.png")
                 embed.set_image(url="attachment://party.png")
             if len(teams) > 1:
@@ -228,18 +235,20 @@ class GuidePaginator(discord.ui.View):
 
     def _make_item_type_callback(self, item_type: str):
         async def callback(interaction: discord.Interaction):
+            await interaction.response.defer()
             self.item_type = item_type
             self.selection = None
             self._rebuild_components()
             embeds, file = await self.build_embeds()
-            await interaction.response.edit_message(embeds=embeds, attachments=[file] if file else [], view=self)
+            await interaction.edit_original_response(embeds=embeds, attachments=[file] if file else [], view=self)
         return callback
 
     def _make_select_callback(self):
         async def callback(interaction: discord.Interaction):
+            await interaction.response.defer()
             self.selection = interaction.data["values"][0]
             embeds, file = await self.build_embeds()
-            await interaction.response.edit_message(embeds=embeds, attachments=[file] if file else [], view=self)
+            await interaction.edit_original_response(embeds=embeds, attachments=[file] if file else [], view=self)
         return callback
 
     async def build_embeds(self) -> tuple:

@@ -1,6 +1,7 @@
 {
   "아케론": {
     "name": "아케론",
+    "unreleased": false,
     "path": "허무",
     "element": "뇌",
     "role": "딜러",
@@ -160,6 +161,7 @@
   },
   "아글라이아": {
     "name": "아글라이아",
+    "unreleased": false,
     "path": "기억",
     "element": "뇌",
     "role": "딜러",
@@ -328,6 +330,7 @@
   },
   "아낙사": {
     "name": "아낙사",
+    "unreleased": false,
     "path": "지식",
     "element": "풍",
     "role": "서브 딜러",
@@ -495,6 +498,7 @@
   },
   "아처": {
     "name": "아처",
+    "unreleased": false,
     "path": "수렵",
     "element": "양자",
     "role": "딜러",
@@ -662,6 +666,7 @@
   },
   "아젠티": {
     "name": "아젠티",
+    "unreleased": false,
     "path": "지식",
     "element": "물리",
     "role": "딜러",
@@ -829,6 +834,7 @@
   },
   "아를란": {
     "name": "아를란",
+    "unreleased": false,
     "path": "파멸",
     "element": "뇌",
     "role": "딜러",
@@ -980,6 +986,7 @@
   },
   "애쉬베일": {
     "name": "애쉬베일",
+    "unreleased": false,
     "path": "수렵",
     "element": "뇌",
     "role": "딜러",
@@ -1148,6 +1155,7 @@
   },
   "아스타": {
     "name": "아스타",
+    "unreleased": false,
     "path": "화합",
     "element": "화",
     "role": "",
@@ -1305,6 +1313,7 @@
   },
   "어벤츄린": {
     "name": "어벤츄린",
+    "unreleased": false,
     "path": "보존",
     "element": "허수",
     "role": "보존",
@@ -1471,11 +1480,12 @@
   },
   "어벤츄린•웨이브": {
     "name": "어벤츄린•웨이브",
+    "unreleased": true,
     "path": "환락",
     "element": "양자",
     "role": "",
     "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/aventurine-waveflair_card.webp",
-    "description": null,
+    "description": "붕괴: 스타레일의 5성 양자 속성 환락 운명의 길 캐릭터인 어벤츄린(웨이브플레어)을 위한 최적의 가이드 및 빌드입니다. 어벤츄린(웨이브플레어)에 대한 자세한 내용은 아래 섹션에서 확인할 수 있으며, 탭을 활용해 스킬, 행적, 평가, 빌드 가이드 등 원하는 정보를 빠르게 찾아보시기 바랍니다.",
     "weapons": [],
     "relic_set": "",
     "ornament_set": "",
@@ -1502,6 +1512,7 @@
   },
   "백로": {
     "name": "백로",
+    "unreleased": false,
     "path": "풍요",
     "element": "뇌",
     "role": "보존",
@@ -1667,6 +1678,7 @@
   },
   "블랙스완": {
     "name": "블랙스완",
+    "unreleased": false,
     "path": "허무",
     "element": "풍",
     "role": "서브 딜러",
@@ -1833,6 +1845,7 @@
   },
   "블레이드": {
     "name": "블레이드",
+    "unreleased": false,
     "path": "파멸",
     "element": "풍",
     "role": "서브 딜러",
@@ -1999,6 +2012,7 @@
   },
   "부트힐": {
     "name": "부트힐",
+    "unreleased": false,
     "path": "수렵",
     "element": "물리",
     "role": "딜러",
@@ -2105,7 +2119,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -2126,7 +2140,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "갤러거",
@@ -2147,7 +2161,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "영사",
@@ -2163,6 +2177,7 @@
   },
   "브로냐": {
     "name": "브로냐",
+    "unreleased": false,
     "path": "화합",
     "element": "풍",
     "role": "",
@@ -2321,6 +2336,7 @@
   },
   "카스토리스": {
     "name": "카스토리스",
+    "unreleased": false,
     "path": "기억",
     "element": "양자",
     "role": "딜러",
@@ -2487,6 +2503,7 @@
   },
   "케리드라": {
     "name": "케리드라",
+    "unreleased": false,
     "path": "화합",
     "element": "풍",
     "role": "",
@@ -2652,6 +2669,7 @@
   },
   "사이퍼": {
     "name": "사이퍼",
+    "unreleased": false,
     "path": "허무",
     "element": "양자",
     "role": "",
@@ -2798,6 +2816,7 @@
   },
   "클라라": {
     "name": "클라라",
+    "unreleased": false,
     "path": "파멸",
     "element": "물리",
     "role": "딜러",
@@ -2965,6 +2984,7 @@
   },
   "키레네": {
     "name": "키레네",
+    "unreleased": false,
     "path": "기억",
     "element": "빙",
     "role": "",
@@ -3115,6 +3135,7 @@
   },
   "단항": {
     "name": "단항",
+    "unreleased": false,
     "path": "수렵",
     "element": "풍",
     "role": "딜러",
@@ -3240,6 +3261,7 @@
   },
   "음월": {
     "name": "음월",
+    "unreleased": false,
     "path": "파멸",
     "element": "허수",
     "role": "딜러",
@@ -3399,6 +3421,7 @@
   },
   "단항•등황": {
     "name": "단항•등황",
+    "unreleased": false,
     "path": "보존",
     "element": "물리",
     "role": "보존",
@@ -3565,6 +3588,7 @@
   },
   "레이시오": {
     "name": "레이시오",
+    "unreleased": false,
     "path": "수렵",
     "element": "허수",
     "role": "딜러",
@@ -3732,6 +3756,7 @@
   },
   "에바네시아": {
     "name": "에바네시아",
+    "unreleased": false,
     "path": "환락",
     "element": "물리",
     "role": "딜러",
@@ -3787,7 +3812,7 @@
       "name": "빛나는 공훈의 마법 소녀",
       "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/relics/ever-glorious-magical-girl.webp",
       "bonus_2": "치명타 피해가 16% 증가한다.",
-      "bonus_4": "장착자와 기억의 미소가 가하는 환락 피해는 적의 방어력을 10% 무시한다. 축적된 펀치라인이 5스택 쌓일 때마다 환락 피해가 적의 방어력을 추가로 1% 무시하며, 해당 효과는 최대 10스택까지 중첩된다."
+      "bonus_4": "장착자와 기억의 미소가 가하는 추가 공격 피해는 적의 방어력을 10% 무시한다. 축적된 펀치라인이 5스택 쌓일 때마다 추가 공격 피해가 적의 방어력을 추가로 1% 무시하며, 해당 효과는 최대 10스택까지 중첩된다."
     },
     "ornament_detail": {
       "name": "펑크로드 멘탈",
@@ -3800,7 +3825,7 @@
       "구체": "아무거나",
       "매듭": "에너지 회복 효율"
     },
-    "substat_priority": "전투 중 치명타 확률 100% 달성 > 치명타 피해",
+    "substat_priority": "전투 중 치명타 확률 100%까지 > 치명타 피해",
     "eidolons": [
       {
         "level": 1,
@@ -3828,7 +3853,7 @@
       "'인증된 명곡'의 메커니즘상 턴을 너무 많이 소모하면 버프가 만료될 수 있기 때문에 속도는 언제나 이상적인 스탯은 아닙니다. 에바네시아의 에너지와 '인증된 명곡' 스택은 대부분 자신의 턴 외부에서 획득하고, 본인 턴에는 약간의 '펀치라인'만 제공하므로 속도를 챙기지 않은 세팅으로도 충분히 운용할 수 있습니다. 다만, 속도를 어느 정도 투자하면 턴을 더 자주 확보해 에너지와 '펀치라인'을 추가로 생성할 수 있고, 이를 통해 특정 브레이크 포인트 내에서 필살기를 한 번 더 사용할 수도 있습니다.",
       "치명타 확률: 100%(전투 중)",
       "치명타 피해: 220%+",
-      "공격력 및 물리 속성 피해 증가: 에바네시아의 대미지 비중은 대부분 추가 공격 피해로 구성되기에 공격력%나 물리 속성 피해 증가 같은 주옵션의 효율은 전체 딜량 대비 2~3% 수준으로 매우 낮으며, 따라서 HP%나 방어력%와 같은 생존형 옵션을 챙기거나 강력한 치명타 부옵션이 붙은 유물을 사용하는 것이 더 좋은 효율을 보입니다.",
+      "공격력 및 물리 속성 피해 증가: 에바네시아의 대미지 비중은 대부분 추가 공격 피해로 구성되기에 공격력%나 물리 속성 피해 증가 같은 주옵션의 효율은 전체 딜량 대비 2~3% 수준으로 매우 낮으며, 따라서 체력%나 방어력%와 같은 생존형 옵션을 챙기거나 강력한 치명타 부옵션이 붙은 유물을 사용하는 것이 더 좋은 효율을 보입니다.",
       "에바네시아의 대미지 비중은 대부분 환락 피해로 구성되기에 공격력%나 물리 속성 피해 증가 같은 주옵션의 효율은 전체 딜량 대비 2~3% 수준으로 매우 낮으며, 따라서 체력%나 방어력%와 같은 생존형 옵션을 챙기거나 강력한 치명타 부옵션이 붙은 유물을 사용하는 것이 더 좋은 효율을 보입니다."
     ],
     "party_teams": [
@@ -3899,6 +3924,7 @@
   },
   "비소": {
     "name": "비소",
+    "unreleased": false,
     "path": "수렵",
     "element": "풍",
     "role": "딜러",
@@ -4068,6 +4094,7 @@
   },
   "반디": {
     "name": "반디",
+    "unreleased": false,
     "path": "파멸",
     "element": "화",
     "role": "딜러",
@@ -4156,7 +4183,7 @@
       "속도: 반디의 속도 세팅은 완전 연소 타이머나 엔드게임 콘텐츠의 행동 게이지 커트라인에 따라 다양한 브레이크 포인트가 존재합니다. 혼돈의 기억에서 웨이브가 교체될 때 완전 연소 타이머가 초기화되거나 파티에 행동 게이지 증가 캐릭터가 포함되면 속도 세팅이 더욱 복잡해지는데, 권장하는 속도 값은 연소 타이머 지연 효과가 상시 적용되는 허구 이야기 기준입니다. 물론 속도를 최대한 높이는 것도 방법이지만, 완전 연소 종료 직후에 반디가 바로 턴을 잡도록 조절하여 속도 버프를 유지하는 것이 유리할 때도 있으며, 혼돈의 기억을 고려한 추가적인 속도 브레이크 포인트로는 178.4가 있습니다.",
       "반디의 속도 임계값은 완전 연소 타이머나 엔드게임 콘텐츠에서의 행동 게이지 커트라인에 맞춰 조정해야 하는 경우가 많으며, 혼돈의 기억 웨이브 전환 시 완전 연소 타이머가 초기화되거나 파티에 행동 게이지 증가 캐릭터가 포함될 경우 속도 세팅이 한층 더 복잡해질 수 있습니다.",
       "추천 속도는 '규정된 변칙' 효과로 인해 '완전 연소'의 타이머 지연이 (거의) 항상 적용되도록 조정된 수치이며, 속도를 최대한 높이는 방식으로 세팅해도 좋지만, '완전 연소'가 종료된 직후 반디가 바로 행동하게 만들어 속도 버프를 유지하는 것이 유리한 상황도 있다는 점을 염두에 두어야 합니다.",
-      "고려해야 할 또 다른 SPD 임계값: 혼돈의 기억 178.4",
+      "고려해야 할 또 다른 SPD 브레이크포인트: 혼돈의 기억 178.4",
       "격파 특효: 300%"
     ],
     "party_teams": [
@@ -4169,7 +4196,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "영사",
@@ -4190,7 +4217,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -4211,7 +4238,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "갤러거",
@@ -4227,6 +4254,7 @@
   },
   "부현": {
     "name": "부현",
+    "unreleased": false,
     "path": "보존",
     "element": "양자",
     "role": "보존",
@@ -4392,6 +4420,7 @@
   },
   "갤러거": {
     "name": "갤러거",
+    "unreleased": false,
     "path": "풍요",
     "element": "화",
     "role": "보존",
@@ -4499,7 +4528,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "갤러거",
@@ -4557,6 +4586,7 @@
   },
   "게파드": {
     "name": "게파드",
+    "unreleased": false,
     "path": "보존",
     "element": "빙",
     "role": "보존",
@@ -4722,11 +4752,12 @@
   },
   "길가메시": {
     "name": "길가메시",
+    "unreleased": true,
     "path": "파멸",
     "element": "뇌",
     "role": "",
     "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/gilgamesh_card.webp",
-    "description": null,
+    "description": "붕괴: 스타레일의 길가메쉬를 위한 최고의 가이드 및 육성법입니다. 길가메쉬는 번개 속성의 파멸 운명의 길을 걷는 5성 캐릭터입니다. 길가메쉬에 대한 더 자세한 정보는 아래 섹션을 확인해 주세요. 탭을 사용하여 스킬, 행적, 평가, 육성 가이드 등 원하는 정보로 빠르게 전환할 수 있습니다.",
     "weapons": [],
     "relic_set": "",
     "ornament_set": "",
@@ -4747,6 +4778,7 @@
   },
   "계네빈": {
     "name": "계네빈",
+    "unreleased": false,
     "path": "허무",
     "element": "화",
     "role": "",
@@ -4913,6 +4945,7 @@
   },
   "한아": {
     "name": "한아",
+    "unreleased": false,
     "path": "화합",
     "element": "물리",
     "role": "",
@@ -5070,6 +5103,7 @@
   },
   "헤르타": {
     "name": "헤르타",
+    "unreleased": false,
     "path": "지식",
     "element": "빙",
     "role": "서브 딜러",
@@ -5237,6 +5271,7 @@
   },
   "히메코": {
     "name": "히메코",
+    "unreleased": false,
     "path": "지식",
     "element": "화",
     "role": "딜러",
@@ -5346,7 +5381,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -5367,7 +5402,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -5396,7 +5431,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           }
         ]
       }
@@ -5404,25 +5439,76 @@
   },
   "히메코•노바": {
     "name": "히메코•노바",
+    "unreleased": false,
     "path": "지식",
     "element": "화",
-    "role": "",
+    "role": "딜러",
     "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/himeko-nova_card.webp",
-    "description": null,
-    "weapons": [],
-    "relic_set": "",
-    "ornament_set": "",
-    "relic_icon": null,
-    "ornament_icon": null,
-    "relic_detail": null,
-    "ornament_detail": null,
-    "relic_opts": {
-      "상의": "정보 없음",
-      "신발": "정보 없음",
-      "구체": "정보 없음",
-      "매듭": "정보 없음"
+    "description": "붕괴: 스타레일의 5성 화염 속성 지식 운명의 길 캐릭터인 히메코의 최적 가이드 및 세팅 정보를 확인해 보세요. 히메코에 대한 자세한 내용은 아래 섹션에서 확인할 수 있으며, 탭을 사용하여 스킬, 행적, 캐릭터 평가 또는 육성 가이드 등 원하는 정보를 빠르게 찾아볼 수 있습니다.",
+    "weapons": [
+      {
+        "name": "밤을 비추는 별",
+        "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/light-cones/a-star-that-lights-the-night.webp",
+        "effect": "장착자가 가하는 피해는 대상의 방어력을 32/36/40/44/48% 무시하며, 서포트 스킬 발동 시 에너지를 6pt 회복하고 2턴간 지속되는 '항해' 효과를 1스택 획득한다(최대 3스택). '항해' 1스택당 서포트 스킬의 피해가 20/25/30/35/40% 증가하며, '항해'가 3스택에 도달하면 각 스택당 필살기 피해가 추가로 20/25/30/35/40% 증가한다.",
+        "hp": 847,
+        "atk": 635,
+        "def": 529
+      },
+      {
+        "name": "추궁할 수 없는 곳을 향해",
+        "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/light-cones/into-the-unreachable-veil.webp",
+        "effect": "장착자의 치명타 확률이 12/14/16/18/20% 증가한다. 장착자가 필살기를 발동하면, 장착자의 전투 스킬과 필살기가 주는 피해가 60/70/80/90/100% 증가하며, 이 효과는 3턴 동안 지속된다. 필살기 발동 시 소모한 에너지가 140 이상일 경우, 전투 스킬 포인트를 1pt 회복한다.",
+        "hp": 953,
+        "atk": 635,
+        "def": 463
+      },
+      {
+        "name": "은하철도의 밤",
+        "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/light-cones/night-on-the-milky-way.webp",
+        "effect": "필드 위 적 1기당 장착자의 공격력이 9/10.5/12/13.5/15% 증가하며, 최대 5스택까지 중첩된다. 적이 약점 격파 상태가 되면 장착자가 가하는 피해가 30/35/40/45/50% 증가하며, 이 효과는 1턴간 지속된다.",
+        "hp": 1164,
+        "atk": 582,
+        "def": 396
+      },
+      {
+        "name": "오늘도 평화로운 하루",
+        "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/light-cones/today-is-another-peaceful-day.webp",
+        "effect": "전투 시작 시 장착자의 최대 에너지에 비례하여 가하는 피해가 증가하며, 에너지 1포인트당 가하는 피해가 0.2/0.25/0.3/0.35/0.4% 증가하고 최대 160포인트까지 적용된다.",
+        "hp": 846,
+        "atk": 529,
+        "def": 330
+      },
+      {
+        "name": "은하 함락의 날",
+        "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/light-cones/the-day-the-cosmos-fell.webp",
+        "effect": "장착자의 공격력이 16/18/20/22/24% 증가한다. 장착자가 공격을 발동하여 약점이 동일한 적을 2기 이상 공격했을 때, 장착자의 치명타 피해가 20/25/30/35/40% 증가하며 이 효과는 2턴간 지속된다.",
+        "hp": 953,
+        "atk": 476,
+        "def": 331
+      }
+    ],
+    "relic_set": "내비게이터 이세의 시선",
+    "ornament_set": "별을 삼킨 바다",
+    "relic_icon": "https://cdn.prydwen.gg/images/honkai-star-rail/relics/as-navigator-isee-sees-it.webp",
+    "ornament_icon": "https://cdn.prydwen.gg/images/honkai-star-rail/relics/fallen-star-anchorage.webp",
+    "relic_detail": {
+      "name": "내비게이터 이세의 시선",
+      "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/relics/as-navigator-isee-sees-it.webp",
+      "bonus_2": "공격력이 12% 증가한다.",
+      "bonus_4": "장착자가 전투에 진입하거나 전투 스킬을 발동하면 전투 스킬과 필살기가 주는 피해가 18% 증가하며, 해당 효과는 최대 3회까지 중첩됩니다. 장착자의 턴이 시작되거나 필살기를 발동한 후에는 해당 효과가 1회 해제됩니다."
     },
-    "substat_priority": null,
+    "ornament_detail": {
+      "name": "별을 삼킨 바다",
+      "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/relics/fallen-star-anchorage.webp",
+      "bonus_2": "장착자의 치명타 확률이 8% 증가하며, 전투 진입 시 장착자와 다른 아군이 모두 '개척의 동료' 캐릭터라면 장착자의 치명타 피해가 32% 증가한다."
+    },
+    "relic_opts": {
+      "상의": "치명타 확률 > 치명타 피해",
+      "신발": "공격력% > 속도",
+      "구체": "공격력% >= 화속성 피해량",
+      "매듭": "공격력%"
+    },
+    "substat_priority": "치명타 확률 = 치명타 피해 > 공격력% > 속도",
     "eidolons": [
       {
         "level": 1,
@@ -5445,11 +5531,89 @@
         "desc": "히메코: 노바의 화염 속성 저항 관통이 20% 증가하고, '원천 에너지' 최대치가 6pt로 늘어나며 아군의 어시스트 스킬 사용 시 피해량 75% 증가 및 에너지 1pt를 획득하고, 필살기 발동 시 에너지를 1pt 추가 획득하며, '궤도 섬멸 펄스' 발동 시 에너지가 6pt 이상이면 적 전체에게 공격력의 160%만큼 화염 추가 피해를 가함."
       }
     ],
-    "stat_targets": null,
-    "party_teams": []
+    "stat_targets": [
+      "공격력: 3500-4000+",
+      "치명타 확률: 전투 중 100% 발동",
+      "치명타 피해: 100%+",
+      "속도: 기본 속도 / 134 이상 (기본 속도보다 134 이상을 훨씬 권장함)"
+    ],
+    "party_teams": [
+      {
+        "display": "히메코•노바 · 천야•블레이드 · 웰트 · 곽향 · 단항•등황",
+        "members": [
+          {
+            "name": "히메코•노바",
+            "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/himeko-nova_card.webp"
+          },
+          {
+            "name": "천야•블레이드",
+            "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/blade-mortenax_card.webp"
+          },
+          {
+            "name": "웰트",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1004.png"
+          },
+          {
+            "name": "곽향",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1217.png"
+          },
+          {
+            "name": "단항•등황",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1414.png"
+          }
+        ]
+      },
+      {
+        "display": "히메코•노바 · 천야•블레이드 · 개척자•기억 · 곽향",
+        "members": [
+          {
+            "name": "히메코•노바",
+            "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/himeko-nova_card.webp"
+          },
+          {
+            "name": "천야•블레이드",
+            "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/blade-mortenax_card.webp"
+          },
+          {
+            "name": "개척자•기억",
+            "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/trailblazer-remembrance_card.webp"
+          },
+          {
+            "name": "곽향",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1217.png"
+          }
+        ]
+      },
+      {
+        "display": "히메코•노바 · 선데이 · 스파클 · 곽향 · 단항•등황",
+        "members": [
+          {
+            "name": "히메코•노바",
+            "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/himeko-nova_card.webp"
+          },
+          {
+            "name": "선데이",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1313.png"
+          },
+          {
+            "name": "스파클",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1306.png"
+          },
+          {
+            "name": "곽향",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1217.png"
+          },
+          {
+            "name": "단항•등황",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1414.png"
+          }
+        ]
+      }
+    ]
   },
   "후크": {
     "name": "후크",
+    "unreleased": false,
     "path": "파멸",
     "element": "화",
     "role": "딜러",
@@ -5559,6 +5723,7 @@
   },
   "곽향": {
     "name": "곽향",
+    "unreleased": false,
     "path": "풍요",
     "element": "풍",
     "role": "보존",
@@ -5724,6 +5889,7 @@
   },
   "히아킨": {
     "name": "히아킨",
+    "unreleased": false,
     "path": "기억",
     "element": "풍",
     "role": "보존",
@@ -5776,7 +5942,7 @@
       "구체": "체력%",
       "매듭": "에너지 회복 효율"
     },
-    "substat_priority": "SPD 200 이상 > 체력% > 치명타 피해 >= 효과 저항",
+    "substat_priority": "SPD 200 이상 > HP% > 치명타 피해 >= 효과 저항",
     "eidolons": [
       {
         "level": 1,
@@ -5875,6 +6041,7 @@
   },
   "히실렌스": {
     "name": "히실렌스",
+    "unreleased": false,
     "path": "허무",
     "element": "물리",
     "role": "딜러",
@@ -5943,7 +6110,7 @@
       "구체": "물리 피해량 = 공격력%",
       "매듭": "공격력% > 에너지 회복 효율"
     },
-    "substat_priority": "효과 명중을 120%까지 올린 후, 속도 > 공격력% 순으로 챙기세요.",
+    "substat_priority": "효과 명중 120% 도달 = 속도 > 공격력%",
     "eidolons": [
       {
         "level": 1,
@@ -6041,6 +6208,7 @@
   },
   "제이드": {
     "name": "제이드",
+    "unreleased": false,
     "path": "지식",
     "element": "양자",
     "role": "서브 딜러",
@@ -6208,6 +6376,7 @@
   },
   "초구": {
     "name": "초구",
+    "unreleased": false,
     "path": "허무",
     "element": "화",
     "role": "",
@@ -6374,6 +6543,7 @@
   },
   "경원": {
     "name": "경원",
+    "unreleased": false,
     "path": "지식",
     "element": "뇌",
     "role": "딜러",
@@ -6471,7 +6641,7 @@
       "공격력: 2600 - 3000+",
       "치명타 확률: 80% - 90% 이상 (버프 적용 시)",
       "치명타 피해: 140% - 160%+",
-      "속도 면에서는 두 가지 선택지가 있습니다. 경원과 선데이를 함께 운용하는 -1 속도 조합에서는 속도를 134 이상으로 맞추고, 이때 선데이가 경원보다 항상 속도가 1 낮게 유지되도록 세팅하는 것이 가장 좋으며, 더 높은 속도를 목표로 할 수도 있습니다. 경원과 스파클을 사용하는 하이퍼스피드 조합이나, 선데이가 없어 차선책으로 매우 빠른 한아를 기용하는 조합(혹은 로빈이 없어 선데이와 한아를 함께 사용하는 경우)에서는 경원의 속도를 기본 속도로 유지해도 무방합니다.",
+      "속도 세팅에는 두 가지 선택지가 있습니다. 경원과 선데이를 함께 운용하는 -1 속도 조합에서는 속도를 134 이상으로 맞추고, 이때 선데이가 경원보다 항상 속도가 1 낮게 유지되도록 세팅하는 것이 가장 좋으며, 더 높은 속도를 목표로 할 수도 있습니다. 경원과 스파클을 사용하는 하이퍼스피드 조합이나, 선데이가 없어 차선책으로 매우 빠른 한아를 기용하는 조합(혹은 로빈이 없어 선데이와 한아를 함께 사용하는 경우)에서는 경원의 속도를 기본 속도로 유지해도 무방합니다.",
       "경원과 선데이를 함께 운용하는 -1 속도 세팅을 사용할 경우 경원의 속도는 134 이상이어야 하며, 더 높은 속도를 목표로 할 수도 있지만 선데이가 항상 경원보다 속도가 1 낮게 유지되도록 하는 것이 가장 좋습니다.",
       "경류가 하이퍼스피드 세팅의 하나와 함께하거나, 아직 정운이 없어 하나를 사용해야 하거나 로빈 대신 하나와 정운을 함께 기용하는 등 차선책으로 매우 빠른 하나와 조합할 때의 기본 속도입니다."
     ],
@@ -6543,6 +6713,7 @@
   },
   "경류": {
     "name": "경류",
+    "unreleased": false,
     "path": "파멸",
     "element": "빙",
     "role": "딜러",
@@ -6709,6 +6880,7 @@
   },
   "카프카": {
     "name": "카프카",
+    "unreleased": false,
     "path": "허무",
     "element": "뇌",
     "role": "서브 딜러",
@@ -6875,6 +7047,7 @@
   },
   "영사": {
     "name": "영사",
+    "unreleased": false,
     "path": "풍요",
     "element": "화",
     "role": "보존",
@@ -6983,7 +7156,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "영사",
@@ -7041,6 +7214,7 @@
   },
   "루카": {
     "name": "루카",
+    "unreleased": false,
     "path": "허무",
     "element": "물리",
     "role": "딜러",
@@ -7187,6 +7361,7 @@
   },
   "나찰": {
     "name": "나찰",
+    "unreleased": false,
     "path": "풍요",
     "element": "허수",
     "role": "보존",
@@ -7353,6 +7528,7 @@
   },
   "링스": {
     "name": "링스",
+    "unreleased": false,
     "path": "풍요",
     "element": "양자",
     "role": "보존",
@@ -7518,6 +7694,7 @@
   },
   "Mar.7•보존": {
     "name": "Mar.7•보존",
+    "unreleased": false,
     "path": "보존",
     "element": "빙",
     "role": "보존",
@@ -7688,6 +7865,7 @@
   },
   "에버나이트": {
     "name": "에버나이트",
+    "unreleased": false,
     "path": "기억",
     "element": "빙",
     "role": "딜러",
@@ -7853,6 +8031,7 @@
   },
   "Mar.7•수렵": {
     "name": "Mar.7•수렵",
+    "unreleased": false,
     "path": "수렵",
     "element": "허수",
     "role": "서브 딜러",
@@ -8027,6 +8206,7 @@
   },
   "미샤": {
     "name": "미샤",
+    "unreleased": false,
     "path": "파멸",
     "element": "빙",
     "role": "딜러",
@@ -8114,11 +8294,12 @@
   },
   "천야•블레이드": {
     "name": "천야•블레이드",
+    "unreleased": false,
     "path": "허무",
     "element": "화",
     "role": "딜러",
     "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/blade-mortenax_card.webp",
-    "description": null,
+    "description": "붕괴: 스타레일의 5성 화염 속성 공허 운명의 길 캐릭터인 모르테낙스 블레이드에 대한 최고의 가이드 및 세팅 정보를 확인해 보세요. 모르테낙스 블레이드에 대해 더 자세히 알아보려면 아래 섹션을 참고하시기 바라며, 탭을 활용해 스킬, 행적, 캐릭터 평가, 세팅 가이드 등 원하는 정보를 빠르게 찾아보실 수 있습니다.",
     "weapons": [
       {
         "name": "지옥불 속에서 재련된 의지",
@@ -8282,6 +8463,7 @@
   },
   "맥택": {
     "name": "맥택",
+    "unreleased": false,
     "path": "수렵",
     "element": "뇌",
     "role": "서브 딜러",
@@ -8439,6 +8621,7 @@
   },
   "마이데이": {
     "name": "마이데이",
+    "unreleased": false,
     "path": "파멸",
     "element": "허수",
     "role": "딜러",
@@ -8605,6 +8788,7 @@
   },
   "나타샤": {
     "name": "나타샤",
+    "unreleased": false,
     "path": "풍요",
     "element": "물리",
     "role": "보존",
@@ -8770,6 +8954,7 @@
   },
   "페라": {
     "name": "페라",
+    "unreleased": false,
     "path": "허무",
     "element": "빙",
     "role": "",
@@ -8920,6 +9105,7 @@
   },
   "파이논": {
     "name": "파이논",
+    "unreleased": false,
     "path": "파멸",
     "element": "물리",
     "role": "딜러",
@@ -9010,8 +9196,8 @@
       "치명타 확률: 90-100%",
       "치명타 피해: 160-180% + (행적 적용 전)",
       "속도: 파이논은 필살기 사용 중 속도%나 속도 실수치 증가 효과를 전혀 받지 못하므로 속도는 파이논에게 유효한 딜 스탯이 아닙니다. 하지만 그럼에도 불구하고 선데이나 브로냐 같은 행동 게이지 당겨주기 서포터와 조합하여 핵심 불꽃 스택을 더 빠르고 안정적으로 쌓기 위한 속도 세팅은 매우 효과적입니다. 속도 세팅 시 가장 일반적인 방식은 파이논의 속도를 서포터보다 1 높게 맞춰 2회 이상의 행동으로 핵심 불꽃을 생성하는 것이며, 예시로 파이논 136, 선데이 135, 브로냐 134 정도로 세팅할 수 있습니다.",
-      "파이논: SPD 136",
-      "선데이: SPD 135",
+      "파이논: 속도 136",
+      "선데이: 속도 135",
       "브로냐: SPD 134"
     ],
     "party_teams": [
@@ -9082,6 +9268,7 @@
   },
   "청작": {
     "name": "청작",
+    "unreleased": false,
     "path": "지식",
     "element": "양자",
     "role": "딜러",
@@ -9249,6 +9436,7 @@
   },
   "라파": {
     "name": "라파",
+    "unreleased": false,
     "path": "지식",
     "element": "허수",
     "role": "딜러",
@@ -9349,7 +9537,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "영사",
@@ -9370,7 +9558,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -9391,7 +9579,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -9407,11 +9595,12 @@
   },
   "토오사카 린": {
     "name": "토오사카 린",
+    "unreleased": true,
     "path": "지식",
     "element": "양자",
     "role": "",
     "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/rin-tohsaka_card.webp",
-    "description": null,
+    "description": "붕괴: 스타레일 토오사카 린의 최적 가이드 및 세팅입니다. 토오사카 린은 양자 속성의 지식 운명의 길을 걷는 5성 캐릭터입니다. 토오사카 린에 대해 더 자세히 알고 싶다면 아래 섹션을 확인해 주세요. 각 탭을 이용하면 캐릭터 스킬, 행적, 평가, 빌드 가이드 등 원하는 정보를 빠르게 찾아볼 수 있습니다.",
     "weapons": [],
     "relic_set": "",
     "ornament_set": "",
@@ -9432,6 +9621,7 @@
   },
   "로빈": {
     "name": "로빈",
+    "unreleased": false,
     "path": "화합",
     "element": "물리",
     "role": "",
@@ -9598,11 +9788,12 @@
   },
   "로빈•서머레토": {
     "name": "로빈•서머레토",
+    "unreleased": true,
     "path": "기억",
     "element": "풍",
     "role": "",
     "portrait": "https://cdn.prydwen.gg/images/honkai-star-rail/characters/robin-summeretto_card.webp",
-    "description": null,
+    "description": "붕괴: 스타레일의 로빈(여름)에 대한 최고의 가이드 및 빌드입니다. 로빈(여름)은 기억 운명의 길을 따르는 바람 속성 5성 캐릭터입니다. 로빈(여름)에 대해 더 자세히 알아보려면 아래 섹션을 확인해 주세요. 탭을 사용하여 스킬, 행적, 리뷰, 빌드 가이드 등 원하는 정보를 빠르게 찾아볼 수 있습니다.",
     "weapons": [],
     "relic_set": "",
     "ornament_set": "",
@@ -9629,6 +9820,7 @@
   },
   "완•매": {
     "name": "완•매",
+    "unreleased": false,
     "path": "화합",
     "element": "빙",
     "role": "",
@@ -9737,7 +9929,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -9795,6 +9987,7 @@
   },
   "세이버": {
     "name": "세이버",
+    "unreleased": false,
     "path": "파멸",
     "element": "풍",
     "role": "딜러",
@@ -9962,6 +10155,7 @@
   },
   "삼포": {
     "name": "삼포",
+    "unreleased": false,
     "path": "허무",
     "element": "풍",
     "role": "서브 딜러",
@@ -10099,6 +10293,7 @@
   },
   "제레": {
     "name": "제레",
+    "unreleased": false,
     "path": "수렵",
     "element": "양자",
     "role": "딜러",
@@ -10250,6 +10445,7 @@
   },
   "서벌": {
     "name": "서벌",
+    "unreleased": false,
     "path": "지식",
     "element": "뇌",
     "role": "서브 딜러",
@@ -10417,6 +10613,7 @@
   },
   "은랑": {
     "name": "은랑",
+    "unreleased": false,
     "path": "허무",
     "element": "양자",
     "role": "",
@@ -10585,6 +10782,7 @@
   },
   "은랑 LV.999": {
     "name": "은랑 LV.999",
+    "unreleased": false,
     "path": "환락",
     "element": "허수",
     "role": "딜러",
@@ -10632,7 +10830,7 @@
       "name": "빛나는 공훈의 마법 소녀",
       "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/relics/ever-glorious-magical-girl.webp",
       "bonus_2": "치명타 피해가 16% 증가한다.",
-      "bonus_4": "장착자와 기억의 미소가 가하는 환락 피해는 적의 방어력을 10% 무시한다. 축적된 펀치라인이 5스택 쌓일 때마다 환락 피해가 적의 방어력을 추가로 1% 무시하며, 해당 효과는 최대 10스택까지 중첩된다."
+      "bonus_4": "장착자와 기억의 미소가 가하는 추가 공격 피해는 적의 방어력을 10% 무시한다. 축적된 펀치라인이 5스택 쌓일 때마다 추가 공격 피해가 적의 방어력을 추가로 1% 무시하며, 해당 효과는 최대 10스택까지 중첩된다."
     },
     "ornament_detail": {
       "name": "펑크로드 멘탈",
@@ -10742,6 +10940,7 @@
   },
   "스파클": {
     "name": "스파클",
+    "unreleased": false,
     "path": "화합",
     "element": "양자",
     "role": "",
@@ -10831,11 +11030,11 @@
       "치명타 피해: 175 - 210%+",
       "에너지 회복 효율: 119.44%+",
       "속도: 혼돈의 기억 첫 번째 사이클이나 아카이브의 변칙 심판처럼 행동 게이지 150 단위로 컷이 나뉘는 콘텐츠에서 스파클의 속도를 세팅할 때는 150 행동 게이지 내 3회 행동을 목표로 하는 200의 유효 속도를 맞추는 것이 좋으며, 행게증 효과를 고려하면 실제 요구 속도는 훨씬 낮아집니다. 이를 달성하기 위해 주로 활용되는 수단은 화합 광추 '댄스! 댄스! 댄스!'의 24% 행게증(스파클 본인 혹은 파티원 장착), '메신저' 4세트의 25% 행게증, 그리고 전용 광추/성혼을 통한 15% 속도 버프가 있으며, 이를 조합한 목표 속도는 기본 200, 메신저나 5중첩 댄댄댄 사용 시 184, 둘 다 사용 시 167.4입니다. 스파클의 1성혼 15% 속도 버프나 완매의 10% 속도 버프를 적용할 경우, 해당 수치만큼 목표 속도에서 각각 15와 10을 낮춰 계산하면 됩니다.",
-      "혼돈의 기억 1라운드 및 기이한 감정 중재와 같이 행동 게이지 150 단위로 컷오프가 발생하는 게임 모드에서는 스파클의 SPD를 최적화하여 세팅하는 것을 권장합니다. 150 행동 게이지 내에 3회의 행동을 확보하는 것이 목표이며, 이를 위해서는 200의 유효 SPD가 필요하지만, 행동 게이지 증가 효과를 고려하면 이 목표치에 훨씬 더 쉽게 도달할 수 있습니다. 이를 달성하기 위한 가장 일반적인 수단은 다음과 같습니다: 댄스! 댄스! 댄스! 광추의 24% 행동 게이지 증가 효과는 스파클이나 다른 아군이 장착해 활용할 수 있으며, 여기에 4세트 효과인 밤낮의 지기 25% 행동 게이지 증가와 1돌파 효과인 15% 속도 버프(2턴마다 최소 1회 스파클의 전투 스킬 사용 가정)를 합산하여 계산합니다.",
+      "망각의 정원 첫 번째 사이클과 혼돈의 기억 등 행동 게이지 기준값이 150 단위인 게임 모드에 맞춰 스파클의 SPD를 세팅하는 것을 권장합니다. 목표는 150 행동 게이지 내에 3턴을 확보하는 것이며, 이를 위해서는 200의 유효 SPD가 필요하지만, 행동 게이지를 당겨오는 효과를 고려하면 이 기준은 훨씬 달성하기 쉬워집니다. 이 목표를 달성하는 데 가장 일반적인 방법으로는 댄스! 댄스! 댄스! 광추의 24% 행동 게이지 증가 효과를 스파클이나 다른 아군이 장착하여 활용할 수 있으며, 여기에 4세트 효과인 밤낮의 지기 25% 행동 게이지 증가와 1돌파 효과인 15% 속도 버프(2턴마다 최소 1회 스파클의 전투 스킬 사용 가정)를 합산하여 계산합니다.",
       "광추 댄스! 댄스! 댄스!의 행동 게이지 24% 증가 효과는 스파클이나 다른 아군이 장착하여 활용할 수 있습니다.",
       "밤에 활공하는 독수리 4세트 효과로 행동 게이지 25% 증가",
       "1돌파 효과로 인한 속도 15% 버프(2턴마다 최소 한 번씩 스파클의 전투 스킬을 사용한다고 가정)",
-      "목표로 해야 할 SPD 기준치는 다음과 같습니다: 4세트 장착 시 200, 4세트와 5재련 댄! 댄! 댄! 병용 시 184, 두 조건 모두 충족 시 167.4입니다.",
+      "목표로 해야 할 SPD 임계값은 다음과 같습니다: 4세트 장착 시 200 SPD, 4세트와 5재련 댄댄댄 병용 시 184 SPD, 두 조건 모두 충족 시 167.4 SPD입니다.",
       "속도 200",
       "4세트 독수리 유물이나 5중첩 댄댄댄을 장착하고 속도 184를 맞추면 돼.",
       "4세트 독수리 유물과 5중첩 댄댄댄을 모두 착용했을 때 속도 167.4",
@@ -10909,6 +11108,7 @@
   },
   "스파키": {
     "name": "스파키",
+    "unreleased": false,
     "path": "환락",
     "element": "화",
     "role": "딜러",
@@ -10956,7 +11156,7 @@
       "name": "빛나는 공훈의 마법 소녀",
       "icon": "https://cdn.prydwen.gg/images/honkai-star-rail/relics/ever-glorious-magical-girl.webp",
       "bonus_2": "치명타 피해가 16% 증가한다.",
-      "bonus_4": "장착자와 기억의 미소가 가하는 환락 피해는 적의 방어력을 10% 무시한다. 축적된 펀치라인이 5스택 쌓일 때마다 환락 피해가 적의 방어력을 추가로 1% 무시하며, 해당 효과는 최대 10스택까지 중첩된다."
+      "bonus_4": "장착자와 기억의 미소가 가하는 추가 공격 피해는 적의 방어력을 10% 무시한다. 축적된 펀치라인이 5스택 쌓일 때마다 추가 공격 피해가 적의 방어력을 추가로 1% 무시하며, 해당 효과는 최대 10스택까지 중첩된다."
     },
     "ornament_detail": {
       "name": "텐고쿠@라이브스트리밍",
@@ -10969,7 +11169,7 @@
       "구체": "공격력%",
       "매듭": "에너지 회복 효율"
     },
-    "substat_priority": "ATK 3600 달성 후 > 치명타 확률 >= 치명타 피해",
+    "substat_priority": "ATK 3600까지 달성 후 > 치명타 확률 >= 치명타 피해",
     "eidolons": [
       {
         "level": 1,
@@ -10994,12 +11194,12 @@
     ],
     "stat_targets": [
       "공격력: 버프 포함 전투 중 스탯 3600 달성 기준이며, 주요 범용 버프는 스파클 45%, 스파클 1돌 40%, 루샤카 12%가 있습니다. 단, 음월이나 로빈의 스킬처럼 공격력 기반의 버프는 행적의 스탯 전환 계산에 포함되지 않으니 주의 바랍니다.",
-      "중요 알림: 단항·음월이나 로빈과 같은 공격력 비례 버프는 행적의 능력치 전환 효과에 적용되지 않습니다.",
+      "중요 참고: 단항·음월이나 로빈과 같은 공격력 비례 버프는 행적의 능력치 전환 효과에 적용되지 않습니다.",
       "에너지 회복 효율: 이미 환락 전환 수치가 최대치에 도달했다면 에너지 회복 효율 매듭을 사용하는 것이 좋으며, 추가적인 공격력 증가의 효율은 미미합니다. 그렇지 않은 경우에는 공격력 매듭을 착용하세요.",
       "치명타 확률: 버프 적용 후 전투 중 치명타 확률 100%",
       "치명타 피해: 전투 시작 전 버프를 제외한 수치 기준 140-180%",
       "속도: 기본 속도에 대해 참고하자면, 스파클 134 속도를 맞추는 아하 속도 최적화가 가능하긴 하지만 이를 위해서는 요광이 속도 200을 달성해야 하며, 이는 엄청난 수준의 유물 세팅과 전용 광추가 필수적입니다. 충분히 가능한 영역이지만 향후 기쁨 운명의 길 캐릭터가 출시되면 상황이 금세 변할 수 있다는 점을 유의하세요. 또한 스파클 1돌파 상태라면 공격력 요구치가 매우 낮아지므로, 아하의 회전율을 조금이라도 높이기 위해 속도 세팅을 하는 것도 좋은 선택입니다.",
-      "참고: 스파클의 SPD를 134로 맞추는 아하 속도 최적화가 가능하지만, 이를 위해서는 요광의 SPD를 200까지 올려야 하므로 엄청난 수준의 유물 파밍과 전용 광추가 필수적입니다. 이 빌드를 시도할 수는 있으나 향후 출시될 기쁨 운명의 길 캐릭터들에 따라 상황이 빠르게 변할 수 있습니다. 또한 스파클 1돌파 상태라면 ATK 요구치가 매우 낮아지므로, SPD를 더 올려 아하를 조금 더 빠르게 굴리는 방식으로 세팅하는 것도 가능합니다."
+      "참고: 스파클의 속도를 134로 맞추는 아하 속도 최적화가 가능하지만, 이를 위해서는 요광의 속도를 200까지 올려야 하므로 엄청난 수준의 유물 파밍과 전용 광추가 필수적입니다. 이 빌드를 시도할 수는 있으나 향후 출시될 기쁨 운명의 길 캐릭터들에 따라 상황이 빠르게 변할 수 있습니다. 또한 스파클 1돌파 상태라면 공격력 요구치가 매우 낮아지므로, 속도를 더 올려 아하를 조금 더 빠르게 굴리는 방식으로 세팅하는 것도 가능합니다."
     ],
     "party_teams": [
       {
@@ -11069,6 +11269,7 @@
   },
   "선데이": {
     "name": "선데이",
+    "unreleased": false,
     "path": "화합",
     "element": "허수",
     "role": "",
@@ -11157,8 +11358,8 @@
       "방어력: 1000 - 1200+",
       "치명타 피해: 180 - 220%+",
       "에너지 회복 효율: 119.44 - 124.44%+",
-      "SPD(-1 SPD 세팅): 메인 딜러보다 속도가 1 낮거나 134 이상이 되도록 세팅하세요.",
-      "SPD (초고속): 속도 160 이상 혹은 가능한 한 최대로 챙기세요."
+      "SPD (-1 SPD 빌드): 메인 딜러보다 속도가 1 낮거나 134 이상이 되도록 세팅하세요.",
+      "속도(SPD) 160 이상 혹은 가능한 한 최대로 챙기세요."
     ],
     "party_teams": [
       {
@@ -11228,6 +11429,7 @@
   },
   "소상": {
     "name": "소상",
+    "unreleased": false,
     "path": "수렵",
     "element": "물리",
     "role": "딜러",
@@ -11330,7 +11532,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "영사",
@@ -11346,6 +11548,7 @@
   },
   "달리아": {
     "name": "달리아",
+    "unreleased": false,
     "path": "허무",
     "element": "화",
     "role": "",
@@ -11454,7 +11657,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "영사",
@@ -11475,7 +11678,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -11496,7 +11699,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "갤러거",
@@ -11512,6 +11715,7 @@
   },
   "더 헤르타": {
     "name": "더 헤르타",
+    "unreleased": false,
     "path": "지식",
     "element": "빙",
     "role": "딜러",
@@ -11683,6 +11887,7 @@
   },
   "정운": {
     "name": "정운",
+    "unreleased": false,
     "path": "화합",
     "element": "뇌",
     "role": "",
@@ -11849,6 +12054,7 @@
   },
   "망귀인": {
     "name": "망귀인",
+    "unreleased": false,
     "path": "허무",
     "element": "화",
     "role": "",
@@ -12020,6 +12226,7 @@
   },
   "토파즈": {
     "name": "토파즈",
+    "unreleased": false,
     "path": "수렵",
     "element": "화",
     "role": "서브 딜러",
@@ -12187,6 +12394,7 @@
   },
   "개척자•파멸": {
     "name": "개척자•파멸",
+    "unreleased": false,
     "path": "파멸",
     "element": "물리",
     "role": "딜러",
@@ -12318,6 +12526,7 @@
   },
   "개척자•환락": {
     "name": "개척자•환락",
+    "unreleased": false,
     "path": "환락",
     "element": "뇌",
     "role": "",
@@ -12383,7 +12592,7 @@
       {
         "level": 1,
         "name": "빛을 믿으세요",
-        "desc": "전투 스킬 사용 후 다음 필살기 시 아군이 획득하는 '인증된 히트' 중첩 수가 2 증가하며, 이 효과는 최대 3스택까지 중첩됨."
+        "desc": "전투 스킬 사용 후 다음 필살기 시 아군이 획득하는 '인증된 명곡' 중첩 수가 2 증가하며, 이 효과는 최대 3스택까지 중첩됩니다."
       },
       {
         "level": 2,
@@ -12476,6 +12685,7 @@
   },
   "개척자•화합": {
     "name": "개척자•화합",
+    "unreleased": false,
     "path": "화합",
     "element": "허수",
     "role": "",
@@ -12584,7 +12794,7 @@
           },
           {
             "name": "망귀인",
-            "portrait": null
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -12642,6 +12852,7 @@
   },
   "개척자•보존": {
     "name": "개척자•보존",
+    "unreleased": false,
     "path": "보존",
     "element": "화",
     "role": "보존",
@@ -12738,6 +12949,7 @@
   },
   "개척자•기억": {
     "name": "개척자•기억",
+    "unreleased": false,
     "path": "기억",
     "element": "빙",
     "role": "",
@@ -12904,6 +13116,7 @@
   },
   "트리비": {
     "name": "트리비",
+    "unreleased": false,
     "path": "화합",
     "element": "양자",
     "role": "",
@@ -13065,6 +13278,7 @@
   },
   "웰트": {
     "name": "웰트",
+    "unreleased": false,
     "path": "허무",
     "element": "허수",
     "role": "",
@@ -13232,6 +13446,7 @@
   },
   "설의": {
     "name": "설의",
+    "unreleased": false,
     "path": "파멸",
     "element": "양자",
     "role": "딜러",
@@ -13310,15 +13525,15 @@
     ],
     "party_teams": [
       {
-        "display": "설의 · Tingyun Fugue · 영사 · 달리아",
+        "display": "설의 · 망귀인 · 영사 · 달리아",
         "members": [
           {
             "name": "설의",
             "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1214.png"
           },
           {
-            "name": "Tingyun Fugue",
-            "portrait": null
+            "name": "망귀인",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "영사",
@@ -13331,15 +13546,15 @@
         ]
       },
       {
-        "display": "설의 · Tingyun Fugue · 달리아 · 완•매",
+        "display": "설의 · 망귀인 · 달리아 · 완•매",
         "members": [
           {
             "name": "설의",
             "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1214.png"
           },
           {
-            "name": "Tingyun Fugue",
-            "portrait": null
+            "name": "망귀인",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -13352,15 +13567,15 @@
         ]
       },
       {
-        "display": "설의 · Tingyun Fugue · 달리아 · 개척자•화합",
+        "display": "설의 · 망귀인 · 달리아 · 개척자•화합",
         "members": [
           {
             "name": "설의",
             "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1214.png"
           },
           {
-            "name": "Tingyun Fugue",
-            "portrait": null
+            "name": "망귀인",
+            "portrait": "https://cdn.jsdelivr.net/gh/Mar-7th/StarRailRes@master/icon/character/1225.png"
           },
           {
             "name": "달리아",
@@ -13376,6 +13591,7 @@
   },
   "연경": {
     "name": "연경",
+    "unreleased": false,
     "path": "수렵",
     "element": "빙",
     "role": "딜러",
@@ -13522,6 +13738,7 @@
   },
   "효광": {
     "name": "효광",
+    "unreleased": false,
     "path": "환락",
     "element": "물리",
     "role": "",
@@ -13666,6 +13883,7 @@
   },
   "어공": {
     "name": "어공",
+    "unreleased": false,
     "path": "화합",
     "element": "허수",
     "role": "",
@@ -13802,6 +14020,7 @@
   },
   "운리": {
     "name": "운리",
+    "unreleased": false,
     "path": "파멸",
     "element": "물리",
     "role": "딜러",
